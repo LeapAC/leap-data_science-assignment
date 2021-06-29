@@ -10,7 +10,7 @@ Good luck!
 
 -Leap.
 
-Assignment
+# Assignment
 
 In this repository you'll find a data directory with files containing energy meter-data.
 
