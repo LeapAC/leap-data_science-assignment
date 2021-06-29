@@ -21,19 +21,16 @@ watt-hours.
 Please build a solution that does the following:
 
 Part I:
-Produce a table showing the mean energy, total energy, and total generation in megawatt-hours for each meter in calendar month between Jan 2020 to April 2021.
+Produce a table showing the mean energy, total energy, and total generation in kilowatt-hours for each meter in calendar month between Jan 2020 to April 2021.
 
 Part II:
 Using any simple model of your choice, forecast the total generation during each month from May - August 2021.
 
 Please provide your code and results of this assignment.
 
-BONUS if the following are included:
+_BONUS_ if the following are included:
 In production, this solution would be used on millions of rows -- the solution is scalable.
 If the code is written in PySpark please only use native PySpark (No UDFs or UDAFs please).
 
 
 We are looking forward to your solution!
-
-
-
