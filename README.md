@@ -20,10 +20,10 @@ watt-hours.
 
 Please build a solution that does the following:
 
-Part I:
+_Part I:_
 Produce a table showing the mean energy, total energy, and total generation in kilowatt-hours for each meter in calendar month between Jan 2020 to April 2021.
 
-Part II:
+_Part II:_
 Using any simple model of your choice, forecast the total generation during each month from May - August 2021.
 
 Please provide your code and results of this assignment.
