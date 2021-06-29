@@ -29,8 +29,10 @@ Using any simple model of your choice, forecast the total generation during each
 Please provide your code and results of this assignment.
 
 _BONUS_ if the following are included:
-In production, this solution would be used on millions of rows -- the solution is scalable.
-If the code is written in PySpark please only use native PySpark (No UDFs or UDAFs please).
+
+- In production, this solution would be used on millions of rows -- the solution is scalable.
+
+- If the code is written in PySpark please only use native PySpark (No UDFs or UDAFs please).
 
 
 We are looking forward to your solution!
