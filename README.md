@@ -28,11 +28,7 @@ Using any simple model of your choice, forecast the total monthly generation for
 
 Please provide your code and results of this assignment.
 
-_BONUS_ if the following are included:
-
-- In production, this solution would be used on millions of rows -- the solution is scalable.
-
-- If the code is written in PySpark please only use native PySpark (No UDFs or UDAFs please).
-
+_Part III_:
+Please describe how you would turn this into a scalable system that would run on millions of rows and how to run and maintain this in production.
 
 We are looking forward to your solution!
